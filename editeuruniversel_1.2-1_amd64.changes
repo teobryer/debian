@@ -1,0 +1,37 @@
+Format: 1.8
+Date: Fri, 08 Mar 2019 18:56:19 +0000
+Source: editeuruniversel
+Binary: editeuruniversel
+Architecture: source amd64
+Version: 1.2-1
+Distribution: unstable
+Urgency: medium
+Maintainer: Alexandre <alexandre.mezeray@gmail.com>
+Changed-By: Alexandre <alexandre.mezeray@gmail.com>
+Description:
+ editeuruniversel - <insert up to 60 chars description>
+Changes:
+ editeuruniversel (1.2-1) unstable; urgency=medium
+ .
+   * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+Checksums-Sha1:
+ 659599d05c76d875b060f2c8f69f808ff6fd0d51 892 editeuruniversel_1.2-1.dsc
+ 1c33e1de9c7adf7b685619a9c014cfa1e107c9c6 15376 editeuruniversel_1.2.orig.tar.xz
+ 7f47c92fe02f42a80834070949d7e3f63f227fb7 7604 editeuruniversel_1.2-1.debian.tar.xz
+ 69782122701794995e6cfdd4db6a0f341e29cdb4 492044 editeuruniversel-dbgsym_1.2-1_amd64.ddeb
+ deaa2be300872d04cfc4424a6d03373b2f6cabb2 6152 editeuruniversel_1.2-1_amd64.buildinfo
+ a84d35204bc6ed749b89c1a5e78c01eb1260439d 25216 editeuruniversel_1.2-1_amd64.deb
+Checksums-Sha256:
+ b43e2b5ece3eb83d0397248dcc0a6e191a8835338349fd2cb2ebe78df5e14668 892 editeuruniversel_1.2-1.dsc
+ 2ff1102dc36b36ebc885d49706efed2bc583b86d90221754aedefda1af2e238d 15376 editeuruniversel_1.2.orig.tar.xz
+ 1624ae3f4385aa05e7ae38e27ef037d95a1187fdb9dd18491dc097b0b47d95f7 7604 editeuruniversel_1.2-1.debian.tar.xz
+ c33cc72a4e3429ec86ac6c62f7fa377dea31a93aa0280b0f58700940279aa99c 492044 editeuruniversel-dbgsym_1.2-1_amd64.ddeb
+ 747ab661e5ec4787dbebf5c8ebc5ee5d15dc8e313be59b01d0cf6f5c5ed8fc6e 6152 editeuruniversel_1.2-1_amd64.buildinfo
+ 410078207252585b6c018cc32455e1175a0d8f4b514210cf6f82c2bd0bf14c43 25216 editeuruniversel_1.2-1_amd64.deb
+Files:
+ 04765242f04864b9b35c266a2770dc18 892 unknown optional editeuruniversel_1.2-1.dsc
+ 7224b47285d1dfc80cb06eb64dec1839 15376 unknown optional editeuruniversel_1.2.orig.tar.xz
+ 90520f36ee83c5ff48b1b5aebf2f9e2e 7604 unknown optional editeuruniversel_1.2-1.debian.tar.xz
+ 92b1f0526a56556f0d02cdea274b03a5 492044 debug optional editeuruniversel-dbgsym_1.2-1_amd64.ddeb
+ 3b20b4a680bc47b4be5be268c383b2a7 6152 unknown optional editeuruniversel_1.2-1_amd64.buildinfo
+ fbacebb996c2fe34051d0ba2433e3026 25216 unknown optional editeuruniversel_1.2-1_amd64.deb
